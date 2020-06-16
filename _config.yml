@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+remote_theme: thelehhman/texture
+texture:
+  title: Josh Sims
+  tagline: Making a programming language
+  date_format: "%b %-d, %Y"
+  style: red
+  showPicker: false
+  navigation:
+  - title: About
+    url: "/about"
+  - title: Expectations
+    url: "/expectations"
+  - title: Experience
+    url: "/experience"
+  - title: Mentor
+    url: "/mentor"
+  - title: Interview
+    url: "/interview"
+  - title: Reflection
+    url: "/reflection"
